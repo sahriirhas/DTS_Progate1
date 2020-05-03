@@ -88,8 +88,15 @@ header {
   position :fixed;
   top: 0;
   z-index: 10;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
 
+@keyframes example {
+  from {background-color: rgba(34, 49, 52, 0.9);}
+  to {background-color: yellow;}
+}
 .logo {
   width: 124px;
   margin-top: 20px;
