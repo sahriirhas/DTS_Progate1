@@ -98,8 +98,8 @@ header {
   to {background-color: yellow;}
 }
 .logo {
-  width: 124px;
-  margin-top: 20px;
+  width: 100px;
+  margin-top: 5px;
 }
 
 .header-left {
@@ -200,7 +200,7 @@ header {
 }
 
 footer img {
-  width: 125px;
+  width: 100px;
 }
 
 footer p {
@@ -211,7 +211,7 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
-  height: 65px;
+  height: 100px;
   width: 100%;
   background-color: grey);
 }
